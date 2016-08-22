@@ -518,6 +518,7 @@
 			font-size: 1.25em;
 			margin: 0.75em 0 0.25em 0;
 			opacity: 0.75;
+			text-shadow: 1px 1px 4px #10303f;
 		}
 
 		#header nav {
