@@ -632,6 +632,7 @@
 					transition: all 0.2s ease-in-out;
 					border-radius: 100%;
 					border: solid 1px #fff;
+					box-shadow: 2px 2px 7px #10303f;
 					display: block;
 					font-size: 1.75em;
 					height: 2.5em;
