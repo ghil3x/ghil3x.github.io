@@ -511,6 +511,7 @@
 			font-weight: 900;
 			letter-spacing: -0.035em;
 			line-height: 1em;
+			text-shadow: 3px 3px 7px #10303f;
 		}
 
 		#header p {
